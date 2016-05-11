@@ -7,8 +7,3 @@ Party rooms (60 persons), meals, party service, café, volleyball grounds, boatin
 
 ### Fun things to do
 - Play some sports
-
-
-<script>
-alert("");
-</script>
