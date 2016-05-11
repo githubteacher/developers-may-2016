@@ -1,0 +1,1408 @@
+Hamid Rohani @hamid914 06:49
+Hello :wink:
+
+Casper Plomp @CasperPlomp 06:51
+HI
+
+Hector Alfaro @halfaro1 06:52
+Look at you @hamid914 and @CasperPlomp model students! :bowtie:
+Welcome :smile:
+
+Casper Plomp @CasperPlomp 06:54
+@halfaro1 :thumbsup:
+Working with technique, so always be early to get things ready :grinning:
+
+Hamid Rohani @hamid914 06:55
+@halfaro1 Thanks :smile:
+
+Casper Plomp @CasperPlomp 07:01
+@halfaro1 can you tell me how to disable notifications?
+
+Hector Alfaro @halfaro1 07:01
+@CasperPlomp for a particular conversations or a particular repository?
+
+Casper Plomp @CasperPlomp 07:02
+For this webinar repository
+
+Hector Alfaro @halfaro1 07:02
+@CasperPlomp head over the :eyes: Watch icon on the top right of the repo, and choose ignore
+@CasperPlomp you don't want to do this in a real life scenario though, as it will suppress any and all notifications so people can't get your attention
+
+fabgonzalez @fabgonzalez 07:03
+Hello!
+
+Casper Plomp @CasperPlomp 07:03
+@halfaro1 tnx, i won't do that IRL :grinning:
+
+Hector Alfaro @halfaro1 07:03
+Welcome all! :wave: I'm Hector from :octocat: feel free to ask your questions here
+
+Hamid Rohani @hamid914 07:04
+@halfaro1 I didn't get email for git-essentials webinar videos yet. Is it email delivery problem or videos are not ready yet?
+
+Hector Alfaro @halfaro1 07:05
+@hamid914 checking for you now
+@hamid914 I'm still checking if the email was sent out but I do have the video links:
+Day 1 Video: https://vimeo.com/165952162/2a75eec4db
+Day 2 Video: https://vimeo.com/165952161/2d4bc56718
+
+fabgonzalez @fabgonzalez 07:12
+@hamid914 @halfaro1 Thanks for the link. I haven't received the videos in my e-mail either
+
+Hector Alfaro @halfaro1 07:13
+:+1: glad it's helpful @fabgonzalez
+
+Hamid Rohani @hamid914 07:14
+@halfaro1 Thank you very much :)
+
+Emma @peppapig 07:14
+I unsubscribed from the thread. Why am I still receiving notification whilst people are making comments
+Emails are flooding out!
+
+Hector Alfaro @halfaro1 07:16
+@peppapig when I ran the script, githubteacher mentioned you with an @ which re-subscribed you to the thread, you can unsubscribe again or follow one of the other suggestions Cynthia's going over now
+
+Emma @peppapig 07:17
+@halfaro1 Thanks. My button now becomes "Subscribe" which means I've unsubscribed it now.
+
+Hector Alfaro @halfaro1 07:17
+:tada: :bow:
+
+Yading @yading2014 07:29
+Can I create a branch under a branch?
+
+Hector Alfaro @halfaro1 07:29
+@yading2014 yes, but most of the time you'll be branching from master or whatever the default branch happens to be
+
+Yading @yading2014 07:30
+@halfaro1 Thanks
+
+Cyberprodigy @cyberprodigy 07:34
+A squirrel? :)
+
+Hector Alfaro @halfaro1 07:34
+@cyberprodigy the ship-it squirrel! :shipit:
+
+Prestin @exolu 07:34
+hi
+
+Hector Alfaro @halfaro1 07:35
+@exolu :wave: hello!
+
+fabgonzalez @fabgonzalez 07:35
+@halfaro1 Where could we learn more about deploy?
+
+Fernando Guevara @guevaraf 07:36
+@halfaro1 what's the best approach when we want to create "issues"in another system like JIRA for example?
+
+Hector Alfaro @halfaro1 07:37
+@fabgonzalez that's a big question! But here's some reading material to get you started :smile: https://developer.github.com/guides/delivering-deployments/
+@guevaraf GitHub Integrations is the way to go here -- there's a JIRA integration
+@guevaraf https://github.com/integrations/jira-software
+
+fabgonzalez @fabgonzalez 07:38
+Thank you very much @halfaro1
+
+Fernando Guevara @guevaraf 07:38
+@halfaro1 thank you, also, can those integrations be used in git for enterprise?
+
+Hector Alfaro @halfaro1 07:40
+@guevaraf yes, but it may be managed by the administrator of your Enterprise instance. I'll jot it down as something for Cynthia to chat about (probably closer to the end of tomorrow's session)
+
+Fernando Guevara @guevaraf 07:40
+@halfaro1 thank you, you both are a great team!
+
+sjamer @sjamer 07:40
+could you go back for the last command line?
+
+Hector Alfaro @halfaro1 07:41
+What do you mean @sjamer ?
+Creating issues is not available on the command line, only on the web UI @sjamer
+
+Hamid Rohani @hamid914 07:42
+@crichID What about Milestone?
+
+rogerya @rogerya 07:42
+How to add labels?
+
+simonreid2016 @simonreid2016 07:42
+hi
+
+Hector Alfaro @halfaro1 07:43
+@rogerya you'd click on the Gear icon next to the labels
+
+torreyt1991 @torreyt1991 07:44
+Awesome! Saint Pete is the best
+
+Hector Alfaro @halfaro1 07:44
+@torreyt1991 I'm in Orlando, so pretty close to me ;)
+
+rogerya @rogerya 07:44
+@halfaro1 I do not have the Gear icon
+
+torreyt1991 @torreyt1991 07:44
+Visit OTown all the time. Go Magic!
+
+simonreid2016 @simonreid2016 07:45
+hi I had problems joining - still need to create issue - please help as I'm not sure
+
+Hector Alfaro @halfaro1 07:45
+@rogerya have you commented on Issue #1 to be added as a collaborator?
+@simonreid2016 sure I'll be happy to help, let me get a recap for you it's a good time to send it out now anyway
+
+simonreid2016 @simonreid2016 07:45
+thanks, I am struggling a bit
+but ready to catch up now
+in fact if u can take me from the start that would be great
+
+rogerya @rogerya 07:46
+I missed it, how to create branch?
+
+Swastika Singhal @swastika 07:47
+Are we going to do this using the termial as well?
+terminal*
+
+rogerya @rogerya 07:47
+@halfaro1 not yet
+
+Hector Alfaro @halfaro1 07:47
+@swastika yes, we will be using the terminal in a bit. Hang tight :)
+
+Swastika Singhal @swastika 07:47
+cool
+
+redfreakly @redfreakly 07:48
+how do i delete a branch?
+
+Hector Alfaro @halfaro1 07:48
+@rogerya we're creating a branch on the web UI in the code tab and on the left next to the green new pull request button
+
+mledson @mledson 07:48
+I'm missing privileges to label and create branch
+
+pramirez19 @pramirez19 07:48
+I can't create branches
+
+mishacucicea @mishacucicea 07:48
+@halfaro1 are you the one barking in the background? :D
+
+Hector Alfaro @halfaro1 07:48
+@/all If you're having trouble creating a branch, make sure you've commented on Issue #1 to be added as a collaborator.
+
+mledson @mledson 07:49
+I commented already a few mins ago
+
+pramirez19 @pramirez19 07:49
+ok, i commented
+(sorry was late, quickly trying to catch up)
+
+Hector Alfaro @halfaro1 07:50
+Alright, then you should now be able to create a branch @mledson and @pramirez19 If you can't send me a screenshot of what you see when you try (you can drag and drop the screenshot into the Gitter window)
+Recap of what we've done so far:
+1. Getting Ready for Class
+Make sure you have Git insalled on your computer and a GitHub account.
+2. Getting Started
+Quick review of what we've covered so far:
+Repository for Class: https://github.com/githubteacher/developers-may-2016
+Tour of Repository:
+Code View: Files belonging to the project
+README.md: Description of the Repository
+Issues: A place to have conversations and collaborate
+Pull requests: A place to collaborate while introducing changes to your project
+Comment on Issue #1 to become a collaborator on the project
+Practice making an issue in the issues tab of the class repository.
+For today's activity, be sure to include your username in the title, like "YourUserName Hometown"
+In the body of the issue, we added the steps we'll take for the workflow.
+Our goal later will be to add a document with information about your hometown, like good restaurants or things to do.
+You can include markdown syntax here.
+Getting access to the collaborator script:
+The collaborator script is open-source! You can access it here. Our training kit is also open-source. We invite you to use these and welcome contributions to both these repos!
+3. GitHub Flow
+You can find that visual of the GitHub flow at this link: https://guides.github.com/introduction/flow/
+4. Branching with Git
+Review of branches
+When you create a branch, you are essentially creating an identical copy of the project at that point in time that is completely separate from the master branch.
+Create a branch on GitHub.com in the class repository
+Click the 'branch' dropdown
+Enter a branchname name 'firstname-lastname-hometown'
+
+mshewchuk @mshewchuk 07:51
+here
+
+HarshithaSuresh @HarshithaSuresh 07:51
+even after commenting on the issue, I am unable to create branch
+
+torreyt1991 @torreyt1991 07:51
+What is the reason my issue doesn't have a blue line next to it on the left of the issue list? I believe it was mentioned but I didn't catch that part
+
+Hector Alfaro @halfaro1 07:51
+Very funny @mishacucicea :wink: :dog:
+
+simonreid2016 @simonreid2016 07:52
+too fast for me - lost now sorry
+
+Elizabeth Mawer @Mawer 07:52
+Hi do you do any classes for developers who are not familiar with using the command line?
+
+Hector Alfaro @halfaro1 07:52
+I'll be happy to try and help @HarshithaSuresh -- I don't see your comment. Did you comment on Issue #1
+
+odairvaz @odairvaz 07:52
+Hi guys i'm having trubles in creating an issue
+
+rogerya @rogerya 07:53
+how to get into the command line?
+
+Hector Alfaro @halfaro1 07:53
+@simonreid2016 we'll take a break in a few minutes and it might be a good time to catch up, but know that you'll receive a video in a few days so you can always follow up there
+
+HarshithaSuresh @HarshithaSuresh 07:53
+No .. I had created an issue and commented on the same
+
+mishacucicea @mishacucicea 07:53
+@rogerya terminal for linux/Mac and git shell for windows
+
+Hector Alfaro @halfaro1 07:54
+@HarshithaSuresh I see, please comment on Issue #1 so I can add you as a collaborator.
+
+Bruce-MacLean @Bruce-MacLean 07:54
+how do I get the git shell?
+
+HarshithaSuresh @HarshithaSuresh 07:54
+sure ..
+
+Hector Alfaro @halfaro1 07:54
+@torreyt1991 the blue boxes next to some of the issues you're seeing are labels. You can add a label to an issue on the top right of the issue
+@torreyt1991 https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/
+
+Cynthia Rich @crichID 07:55
+https://git-scm.com
+
+rogerya @rogerya 07:55
+download it
+
+torreyt1991 @torreyt1991 07:55
+@halfaro1 I added enhancement but it hasnt added the blue line. Not sure if that matters just noticed mine was different from the majority
+
+Hector Alfaro @halfaro1 07:55
+@Mawer this class in particular uses the command line, but GitHub for Everyone doesn't use the command line and uses only a graphical interface that might also be helpful https://services.github.com/training/
+
+Cynthia Rich @crichID 07:55
+https://desktop.github.com
+
+Yading @yading2014 07:56
+why do I have two different versions git
+from cmd and gitshell
+
+Hector Alfaro @halfaro1 07:56
+@HarshithaSuresh got it, added you :+1:
+
+HarshithaSuresh @HarshithaSuresh 07:56
+can you please make me collaborator
+thank u letme try
+
+Hector Alfaro @halfaro1 07:56
+@odairvaz were you able to create an issue?
+
+Sai_STaRK @STaRK-Playground 07:57
+how do i logout from my github desktop account? (i'm currently logged in through my official account and want to use a different id for this training)
+
+Hector Alfaro @halfaro1 07:58
+@torreyt1991 I see the enhancement blue label on your issue :clap:
+
+mshewchuk @mshewchuk 07:58
+having issues to getting the hometown repository pulled down locally
+
+torreyt1991 @torreyt1991 07:58
+Yeah not the blue label I was referring to the blue line to the left of the issue
+
+HarshithaSuresh @HarshithaSuresh 07:58
+yes I was able to add branch
+
+mshewchuk @mshewchuk 07:58
+i have git-bash running on windows
+
+torreyt1991 @torreyt1991 07:58
+some have it, some don't, mine doesn't.
+Not sure what it represents but just wondering
+
+rogerya @rogerya 07:58
+After I create the branch, what can i do the next?
+
+Hector Alfaro @halfaro1 07:59
+@STaRK-Playground you should be able to navigate to the preferences and one of the tabs there will allow you to log out
+
+Hamid Rohani @hamid914 07:59
+This message was deleted
+
+Sai_STaRK @STaRK-Playground 07:59
+perfect that worked Hector
+
+odairvaz @odairvaz 07:59
+@halfaro1 no.
+
+Cynthia Rich @crichID 08:00
+@rogerya if you have created the branch then we switched over to the command line and are ready to start working on our configuration. Do you already have git installed?
+
+Hector Alfaro @halfaro1 08:00
+@mshewchuk we will pick up there when we return from break, I don't think we've cloned from GitHub to your machine yet (I was answering questions so didn't really hear if we got there yet)
+
+Swastika Singhal @swastika 08:00
+I use both Github Enterprise as a software engineer as well as the non enterprise version on my Mac, there are no specific settings required to keep them separate, right?
+
+Hamid Rohani @hamid914 08:00
+@halfaro1 If I quit the GoToMeeting application and then open it again, Is it possible to rejoin this session?
+
+Cynthia Rich @crichID 08:01
+@swastika you may want to set different configurations for the repositories you use with the non-enterprise version
+
+Hector Alfaro @halfaro1 08:01
+@rogerya if you created a branch on GitHub.com follow the steps in the recap I posted earlier
+
+Cynthia Rich @crichID 08:01
+@swastika you can do that by setting your main repos as —global and your others locally
+this will make more sense in just a minute when we actually set some configs
+
+Hector Alfaro @halfaro1 08:02
+@hamid914 yes, you can use the link from your email
+
+fabgonzalez @fabgonzalez 08:02
+@hamid914 did you take all the trainings ? intro to github. github for everyone, git essentials and this one?
+
+Cynthia Rich @crichID 08:02
+@mshewchuk we have not cloned yet - did you get an error when you tried?
+
+Hector Alfaro @halfaro1 08:02
+@torreyt1991 I see it on yours
+ Screen Shot 2016-05-11 at 8.02.19 AM.png
+
+Swastika Singhal @swastika 08:02
+@crichID by main repos you mean the work related repos and the others would be my private projects repos?
+
+nsrir @nsrir 08:02
+Add as collaborator
+
+Cynthia Rich @crichID 08:03
+@swastika you can really do it either way - Git doesn’t care, so it is a personal decision
+
+Amol @Amol-Wankhede 08:03
+I agree
+
+Hector Alfaro @halfaro1 08:04
+@torreyt1991 a label can take on any meaning that you an your team prefer, sometimes labels are used to mark issues as bugs, feature requests. Another example is you can use labels to indicate the stage or status of a particular issue (in progress, in the pipeline, ...)
+
+torreyt1991 @torreyt1991 08:04
+@halfaro1 not the label blue, the blue on the left side of the commetn t
+
+Cynthia Rich @crichID 08:04
+The config for GitHub Enterprise is usually a little more detailed so I usually set that as my global and then set the others locally @swastika
+
+torreyt1991 @torreyt1991 08:04
+on the left border
+
+Cynthia Rich @crichID 08:04
+@torreyt1991 that just indicates that new comments have been added to the issue since you last visited it
+
+Hamid Rohani @hamid914 08:04
+@fabgonzalez I missed intro to github :smile: because of Internet connection problem
+
+torreyt1991 @torreyt1991 08:04
+ah ok thank you Cynthia
+
+Hector Alfaro @halfaro1 08:06
+Hey @/all a lot of questions popped up at once so I want to make sure we've answered them all. If we haven't answered your question please ask again!
+
+nsrir @nsrir 08:06
+I am facing issue while adding branch even though commenting on issue1
+
+Hector Alfaro @halfaro1 08:07
+@nsrir alright, what problem are you facing when you try to create a branch?
+
+fabgonzalez @fabgonzalez 08:07
+@hamid914 very cool! I did the same :smile: I hope I can really leanr git and utilize it for myself and work
+
+odairvaz @odairvaz 08:07
+@halfaro1 I lost the internet conection after an Issue
+
+Hector Alfaro @halfaro1 08:07
+@nsrir do you see this drop down in the code tab?
+ Screen Shot 2016-05-11 at 8.07.34 AM.png
+
+nsrir @nsrir 08:08
+i tried giving unique name and click enter - but unable to create
+
+Cyberprodigy @cyberprodigy 08:08
+We are back :)
+
+Hector Alfaro @halfaro1 08:08
+@nsrir does it say Create branch: your-unique-name?
+@nsrir you may try clicking on that prompt rather than hitting enter, maybe it's a browser specific issue?
+@odairvaz did you receive the recap I sent a little earlier? that may help you catch up
+
+odairvaz @odairvaz 08:09
+@halfaro1 yes tanks
+
+mshewchuk @mshewchuk 08:09
+getting permission denied
+
+Hector Alfaro @halfaro1 08:10
+@odairvaz if you have a hard time catching up feel welcomed to sit back and watch and follow along when you get the recording :video_camera:
+@mshewchuk permission denied for which command?
+
+digitalmoomin @digitalmoomin 08:11
+getting bash: config: command not found
+
+Hector Alfaro @halfaro1 08:11
+@digitalmoomin make sure you prepend it with git
+
+digitalmoomin @digitalmoomin 08:11
+ git --version
+
+Hector Alfaro @halfaro1 08:12
+What's the response to that git --version command @digitalmoomin ?
+
+digitalmoomin @digitalmoomin 08:12
+OK now
+
+Hector Alfaro @halfaro1 08:12
+:+1:
+
+Swastika Singhal @swastika 08:14
+how can I set up two different email ids?
+
+pramirez19 @pramirez19 08:14
+Same question as @swastika
+
+Swastika Singhal @swastika 08:14
+when I say this: git config --local user.email swastika.singhal89@gmail.com because I have the work email set up for gobal config
+
+pramirez19 @pramirez19 08:14
+I have enterprise account that I'm using for global
+
+Swastika Singhal @swastika 08:14
+I get the error: error: could not lock config file .git/config: No such file or directory
+
+Hector Alfaro @halfaro1 08:15
+@swastika and @pramirez19 you'd use the different configuration levels (system, global, local) here's the graphic Cynthia was using to explain it
+https://services.github.com/kit/modules/CONT-CLI-01_Basic-Configuration.html
+
+Swastika Singhal @swastika 08:16
+Thanks!
+
+pramirez19 @pramirez19 08:16
+ok, so I will clone the repo and use that
+
+aparentMMS @aparentMMS 08:17
+how to update from 1.9.5
+
+Hamid Rohani @hamid914 08:19
+@halfaro1 While using terminal vim as editor, is it necessary to set --wait argument? or is it possible for vim?
+
+Hector Alfaro @halfaro1 08:19
+@aparentMMS you can download from www.git-scm.com or use a package installer for your OS
+
+aparentMMS @aparentMMS 08:19
+is there command in mac terminal to update, I have 1.9.5
+
+Hector Alfaro @halfaro1 08:19
+@hamid914 I believe vim is the default, so you don't need to set it
+
+rogerya @rogerya 08:20
+Is atom good/
+?
+
+Hector Alfaro @halfaro1 08:20
+You're going to get a biased response since it's a GitHub project, @rogerya but yes I like it
+Any other opinions folks?
+
+binuashiq @binuashiq 08:21
+what is the command to see the previous values before we set ?
+
+Cyberprodigy @cyberprodigy 08:22
+just without the set value, f.x. git config --global push.default
+
+Hector Alfaro @halfaro1 08:22
+@binuashiq git config --list will show all
+
+pramirez19 @pramirez19 08:22
+I've used Atom, IntelliJ, Visual Studio, Eclipse, Android Studio...Atom seems the most light-weight, but also relies on command line to actually build and run. The other tools have built-in consoles so you don't bounce between terminal/command windows and the text editor
+
+Hector Alfaro @halfaro1 08:23
+@pramirez19 :+1: thanks for the input, yes atom is strictly a text editor but since it's open source there's a lot of packages that have been created to do fun things :balloon:
+
+fabgonzalez @fabgonzalez 08:23
+@halfaro1 just to make sure I got it right. When you don't configure push.default to simple, when doing a push, it will push all the other branches and changes?
+
+Hector Alfaro @halfaro1 08:24
+@fabgonzalez as of version 2.0 of git, simple is the default
+
+MikeSpringall @MikeSpringall 08:24
+we're cloning our branches, correct?
+
+Hector Alfaro @halfaro1 08:25
+@MikeSpringall we're cloning our repo, terminology starts getting a little fuzzy ;)
+
+Hamid Rohani @hamid914 08:26
+@halfaro1 Is it possible to clone only a branch of a repository?
+
+Bruce-MacLean @Bruce-MacLean 08:26
+got a fatal error
+
+Hector Alfaro @halfaro1 08:26
+@Bruce-MacLean can I see the command that led to an error?
+
+Hsingh85 @Hsingh85 08:26
+I am not able to create branch
+
+sjamer @sjamer 08:27
+fatal: unable to access error
+
+Drossarian @Drossarian 08:27
+Getting: fatal: unable to access 'https://github.com/githubteacher/developers-may-2016.gi t/': SSL certificate problem: self signed certificate in certificate chain
+error
+
+cmccg01 @cmccg01 08:27
+Got error while cloning - Requested URL returned fatal error : 503
+
+aparentMMS @aparentMMS 08:27
+why does your terminal say (master) and mine doesn't
+
+mshewchuk @mshewchuk 08:27
+if any have permission issues on windows run as administrator
+
+Sai_STaRK @STaRK-Playground 08:27
+mine does not say (master)
+
+Hector Alfaro @halfaro1 08:27
+@hamid914 there's some stuff going on in the background, but you'd want to clone the repo and not a branch. Git internals means that there's a tree with pointers keeping track the relationship between files, branches, commits, etc etc
+
+Bruce-MacLean @Bruce-MacLean 08:27
+requested URL returned error: 503
+
+rogerya @rogerya 08:28
+I dont have (master)
+
+digitalmoomin @digitalmoomin 08:28
+timing out :(
+
+Hector Alfaro @halfaro1 08:28
+For those of you that are having trouble cloning, you can use HTTPS or SSH cloning
+
+Hamid Rohani @hamid914 08:28
+@halfaro1 aha, Thanks
+
+fabgonzalez @fabgonzalez 08:28
+@aparentMMS @rogerya I used this to set the prompt aware. https://github.com/jimeh/git-aware-prompt
+
+abcfantasy @abcfantasy 08:28
+@Sai_STaRK @rogerya after cloning, you need to do "cd developers-may-2016" to get into the repository
+
+Hector Alfaro @halfaro1 08:28
+This may help https://help.github.com/articles/which-remote-url-should-i-use/
+
+MarkFerris @MarkFerris 08:29
+Don't seem to be able to use HTTPS or SSH
+
+Hector Alfaro @halfaro1 08:29
+For those of you asking about not having (master) there's a number of ways to do this, one of them was suggested by @fabgonzalez
+
+Casper Plomp @CasperPlomp 08:29
+It's not default on windows too
+
+Hector Alfaro @halfaro1 08:30
+@MarkFerris what part hasn't worked for you with HTTPS/SSH?
+
+G @gerryderry 08:30
+git bash will show master
+
+mshewchuk @mshewchuk 08:30
+it is default on my windows
+
+rogerya @rogerya 08:30
+already there
+Rogers-MacBook-Pro:developers-may-2016 ryang$ pwd
+/Users/ryang/ry/git/developers-may-2016
+
+Hector Alfaro @halfaro1 08:30
+@CasperPlomp Git bash should work ( :tada: @gerryderry )
+
+Drossarian @Drossarian 08:30
+I can't use HTTPS or SSH either
+
+aparentMMS @aparentMMS 08:31
+"git bash is not a command"
+
+torreyt1991 @torreyt1991 08:31
+Often times there is a different type of syntax you need to use for https
+
+Hsingh85 @Hsingh85 08:31
+fatal: could not create work tree dir 'developers-may-2016': Permission denied
+
+Hector Alfaro @halfaro1 08:31
+I can try to help @Drossarian -- can I get a little more info about what's working and what's not?
+
+Bruce-MacLean @Bruce-MacLean 08:31
+@MarkFerris same here
+
+marklilburn @marklilburn 08:31
+Clone keeps timing out. I have tried several times.
+
+mshewchuk @mshewchuk 08:31
+was default on windows for me ... make sure to run as administrator
+
+Hector Alfaro @halfaro1 08:31
+@aparentMMS git bash is not a command, it's a program installed on your computer if you have Windows
+
+Casper Plomp @CasperPlomp 08:31
+I'm using git shell but git bash doesnt work indeed
+
+rogerya @rogerya 08:31
+but no (master) sign
+developers-may-2016 ryang$ git branch
+master
+
+Drossarian @Drossarian 08:32
+The git clone doesn't work, with HTTPS I get a SSL certificate problem: self signed certificate in certificate chain, with SSH I get ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+torreyt1991 @torreyt1991 08:32
+If git clone doesnt work using
+git clone https://github.com/githubteacher/developers-may-2016.git
+try using:
+git clone https://{GITHUB-USERNAME}@github.com/githubteacher/developers-may-2016.git
+
+Hector Alfaro @halfaro1 08:33
+@Drossarian are you possibly behind a firewall or some network issue that might be limiting you?
+
+MEaso @MEaso 08:33
+Cloning into 'developers-may-2016'...
+fatal: unable to access 'https://github.com/githubteacher/developers-may-2016.git/': error setting certificate verify l
+ocations:
+CAfile: C:\Users*\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\mingw32/usr/ssl/cert
+s/ca-bundle.crt
+CApath: none
+C:\Users\\Documents\GitHub> ??
+
+Briana Swift @brianamarie 08:33
+Good morning! My name is Briana, and I'm going to be helping answer some questions, too. :wave:
+
+Cynthia Rich @crichID 09:07
+Awesome username by the way - my son would be jealous @peppapig
+
+Emma @peppapig 09:08
+@crichID No problem.Thanks.
+
+Swastika Singhal @swastika 09:08
+@peppapig 20 secs to go
+
+Hector Alfaro @halfaro1 09:08
+@i-am-dnt do you have two factor authentication set up on your github.com account?
+
+Briana Swift @brianamarie 09:08
+@swastika Master is a branch, and origin is the human-friendly name for the https link that you cloned. Local clone is called 'origin' instead of 'remote'
+
+Vinay Hosamane @vinayhosamane 09:08
+Thanks
+
+MikeSpringall @MikeSpringall 09:09
+@i-am-dnt
+Hi, when trying to do a git push I get a message:
+error: failed to execute prompt script (exit code 66)
+fatal: could not read Username for 'https://github.com': Invalid argument
+
+Hamid Rohani @hamid914 09:09
+Is it possible to have empty message for a commit?
+
+aparentMMS @aparentMMS 09:09
+@halfaro1 I installed atom, remind me how to set it as editor
+
+Hector Alfaro @halfaro1 09:09
+@aparentMMS yay! let's first check if it can open from the command line, does the command atom launch it?
+
+Briana Swift @brianamarie 09:09
+@MikeSpringall when you type git config --list, does it list the email address a the same one as your github.com account?
+
+pramirez19 @pramirez19 09:09
+@aparentMMS git config --global core.editor "atom --wait"
+
+i-am-dnt @i-am-dnt 09:09
+Hi @halfaro1 - not sure, how can I check
+
+aparentMMS @aparentMMS 09:10
+@halfaro1 no, unknown command
+
+cms-jakes @cms-jakes 09:10
+can we see how to configure a gitignore file? I want to avoid adding the .DS_Store file.
+
+Hector Alfaro @halfaro1 09:10
+@i-am-dnt when you log into github.com does it require you to respond to a text message or use an authenticator app?
+
+Bruce-MacLean @Bruce-MacLean 09:10
+As we are unable to clone, is there anything else we can do?
+
+mishacucicea @mishacucicea 09:10
+@aparentMMS if you are on windows you might need to reopen Git Shell
+
+Hector Alfaro @halfaro1 09:11
+@aparentMMS :point_up: :+1: or Terminal on Mac
+
+Briana Swift @brianamarie 09:11
+@Bruce-MacLean Is there any proxy you are able to use? If so, you may be able to clone with git config —global http.proxy <proxy-url>
+
+i-am-dnt @i-am-dnt 09:11
+@halfaro1 Hi Hector, no it doesn't
+
+Hector Alfaro @halfaro1 09:12
+@cms-jakes yes, you can look at git ignore via any text editor
+
+aparentMMS @aparentMMS 09:12
+I'm in terminal, placed git config --global core.editor "atom --wait" and then atom and it still does not recognize. @halfaro1
+
+Hector Alfaro @halfaro1 09:12
+@cms-jakes for example: cat .gitignore
+
+pramirez19 @pramirez19 09:12
+@aparentMMS did you close and re-open terminal after installing Atom?
+
+MikeSpringall @MikeSpringall 09:13
+@i-am-dnt git config --list Dave is your email the same as the one used to register with guthub?
+
+Hector Alfaro @halfaro1 09:13
+@aparentMMS right that'll only work if your Terminal recognizes the Atom command.
+
+i-am-dnt @i-am-dnt 09:13
+@MikeSpringall Yes, same email
+
+aparentMMS @aparentMMS 09:14
+@halfaro1 and how to do that.
+
+Hector Alfaro @halfaro1 09:14
+@aparentMMS if you've installed atom typically restarting the terminal should begin recognizing the atom command
+
+aparentMMS @aparentMMS 09:14
+@halfaro1 nope
+
+Hector Alfaro @halfaro1 09:15
+if you can't, this stack overflow shows how to set it manually: http://stackoverflow.com/questions/22390709/open-atom-editor-from-command-line
+
+MikeSpringall @MikeSpringall 09:15
+@brianamarie any ideas for @i-am-dnt for the 'could not read Username for 'https://github.com': Invalid argument' email is the same as github?
+
+Hector Alfaro @halfaro1 09:16
+@i-am-dnt are you using your github username when asked to log in?
+
+aparentMMS @aparentMMS 09:16
+for crissakes. just say you need to install shell scripts in atom. all this atom I have no idea where we're at now.
+
+pramirez19 @pramirez19 09:16
+is git push working for anyone?
+
+crazy4wisdom @crazy4wisdom 09:16
+too bad already created pull before the link to issue instruction
+
+Hector Alfaro @halfaro1 09:16
+@i-am-dnt i'm wondering if it's the hyphens in your username ...
+Hehe no worries @crazy4wisdom I've done the same before, it's a fun feature, not a must to follow along
+
+Briana Swift @brianamarie 09:17
+@MikeSpringall I'm having trouble tracing back @i-am-dnt's messages. Is the trouble when they try to push?
+
+i-am-dnt @i-am-dnt 09:18
+@halfaro1 Hi Hector, no, I use email address
+
+MikeSpringall @MikeSpringall 09:18
+yeah, looks like @halfaro1 thinks it might be related to the hyphens
+
+Briana Swift @brianamarie 09:18
+@aparentMMS I'm sorry. :worried: I want to help you get caught up. What was the last step you completed? Have you had a chance to create commits with git add and git commit?
+
+aparentMMS @aparentMMS 09:18
+git push was where I got lost in text editor hell. Restarting terminal seems to have lost all my setup.
+
+Briana Swift @brianamarie 09:19
+@aparentMMS Okay, I see. Have you been able to CD back into the repository you created?
+
+aparentMMS @aparentMMS 09:20
+I'm in githubteacher-may-2016
+
+Casper Plomp @CasperPlomp 09:20
+I couldn't push because of branch problems
+
+Briana Swift @brianamarie 09:20
+@aparentMMS Great! :sparkles: Try typing git status and see what happens. Hopefully it will give you some information.
+
+Casper Plomp @CasperPlomp 09:20
+git push origin HEAD:CP-hometown did work
+so I think case problems
+
+aparentMMS @aparentMMS 09:21
+@brianamarie 1 file to be committed?
+
+Bruce-MacLean @Bruce-MacLean 09:21
+@brianamarie we don't know what our company proxy is - so we're not able to use that option
+
+Hamid Rohani @hamid914 09:22
+Is it possible to have empty message for a commit?
+
+Briana Swift @brianamarie 09:22
+@aparentMMS Fantastic - that means you've correctly done git add <filename> but it hasn't yet gotten through the 'commit' step. That's likely where atom got involved. To commit without using atom, I suggest you use git commit -m "enter commit message here"
+
+Hector Alfaro @halfaro1 09:22
+@i-am-dnt I haven't forgotten about you, I'm just working on recreating your issue so I can help
+
+i-am-dnt @i-am-dnt 09:22
+@halfaro1 Thanks
+
+Hector Alfaro @halfaro1 09:22
+@hamid914 git won't let you do an empty commit, but I guess you can trick it although it's not best practice
+
+Briana Swift @brianamarie 09:23
+@aparentMMS I realize I didn't ask - have you checked out to your own branch?
+
+simonreid2016 @simonreid2016 09:24
+@brianamarie got all the tutorial steps done now so better thanks
+
+Briana Swift @brianamarie 09:24
+@simonreid2016 :thumbsup: Fantastic
+
+aparentMMS @aparentMMS 09:25
+@brianamarie I have no idea. I made a commit.
+
+crazy4wisdom @crazy4wisdom 09:25
+takes a while to find pull in list need to slow down for this
+
+simonreid2016 @simonreid2016 09:26
+no command stuff but I get the idea
+
+Briana Swift @brianamarie 09:26
+@aparentMMS Okay, great. Let's check the branch that you're on with git branch. If it says master, that means we need to move to another branch, and I can help you do that.
+
+aparentMMS @aparentMMS 09:26
+@brianamarie my branch is green with a star.
+
+Briana Swift @brianamarie 09:26
+@aparentMMS What is the branch name? Master, or the one you created?
+
+aparentMMS @aparentMMS 09:27
+@brianamarie $ git branch
+aparentMMS
+master
+
+Briana Swift @brianamarie 09:28
+@aparentMMS :tada: Great! We're on the right track. :smile: It's time to push. Type git push -u origin aparentMMS to push to the remote branch of the same name.
+
+MikeSpringall @MikeSpringall 09:28
+nobody commented on mine 
+ 
+
+simonreid2016 @simonreid2016 09:29
+cheer up Mike :-)
+
+Hector Alfaro @halfaro1 09:30
+@i-am-dnt have you tried just your username? not email
+
+i-am-dnt @i-am-dnt 09:30
+@halfaro1 Hi I fixed my push issue by doing the following git config --global user.name "David NT" - I think my name was too long, or maybe it was because of the hyphens?
+
+Hector Alfaro @halfaro1 09:30
+@i-am-dnt :clap: :tada: yay!
+
+Fernando Guevara @guevaraf 09:30
+@halfaro1 @brianamarie , I have a user that commented my code asking to let you know that him and some others can't comment on gitter because their network don't allow chat. His user name in git is RoyChapman
+
+Vinay Hosamane @vinayhosamane 09:30
+how to revert back my commit in local branch?
+
+aparentMMS @aparentMMS 09:31
+@brianamarie error?
+
+mledson @mledson 09:31
+can't find my pull request just now ...
+
+Hector Alfaro @halfaro1 09:31
+Thanks @guevaraf -- they can always send us questions to services@github.com the use of Gitter is fairly new for us and we're beginning to learn that some folks can't access it from their company network
+
+Briana Swift @brianamarie 09:31
+@vinayhosamane We will talk about reverting commits tomorrow in more detail. Do you need to revert right now for it to continue working, or are you just very curious? :wink:
+
+aparentMMS @aparentMMS 09:32
+@brianamarie To https://github.com/githubteacher/developers-may-2016.git
+! [rejected] aparentMMS -> aparentMMS (non-fast-forward)
+error: failed to push some refs to 'https://github.com/githubteacher/developers-may-2016.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Vinay Hosamane @vinayhosamane 09:32
+i was just curious thank you
+
+mledson @mledson 09:32
+nm, found it
+
+simonreid2016 @simonreid2016 09:33
+my son loves peppa pig tpp
+too
+
+Briana Swift @brianamarie 09:33
+@aparentMMS Okay. It's telling you that the remote repository has more information than your local branch. Try git pull, then the same git push command that you used earlier.
+
+aparentMMS @aparentMMS 09:35
+@brianamarie ok, it did recursive strategy merge
+
+Briana Swift @brianamarie 09:36
+@aparentMMS Great! :tada: If you look on GitHub.com in your own branch, can you see your changes?
+
+Casper Plomp @CasperPlomp 09:38
+On command line I 'm on branch master, how can I go to my own branch again?
+
+abcfantasy @abcfantasy 09:38
+@CasperPlomp git checkout <branch-name>
+
+Briana Swift @brianamarie 09:38
+@CasperPlomp great question - you use git checkout <branchname>
+@abcfantasy you beat me to it! :sparkles: nice
+
+aparentMMS @aparentMMS 09:39
+@brianamarie guess so
+
+Fernando Guevara @guevaraf 09:40
+@halfaro1 are you going to explain fast forward merge vs regular?
+
+Hector Alfaro @halfaro1 09:40
+@guevaraf we will certainly get there :)
+
+Briana Swift @brianamarie 09:40
+@aparentMMS That's great. Now it's time to do the pull request - this will be done on GitHub.com. On the top navigation bar, click 'Pull Requests'. Then, click the big green 'New Pull Request' button.
+
+Hector Alfaro @halfaro1 09:40
+@guevaraf the alternative is a recursive merge
+
+Briana Swift @brianamarie 09:41
+@aparentMMS Once you're at that step, make sure that the pull request says Base: master and Compare: aparentMMS. Go ahead and fill in your own info to describe the pull request.
+
+aparentMMS @aparentMMS 09:41
+@brianamarie then do I merge on github.com or terminal.
+
+MikeSpringall @MikeSpringall 09:41
+are there any differences between git add . git add --all git add -A
+
+Briana Swift @brianamarie 09:42
+@aparentMMS We aren't merging yet.
+
+Hector Alfaro @halfaro1 09:42
+https://media.giphy.com/media/7UOgtQBBa46UU/giphy.gif
+
+Briana Swift @brianamarie 09:42
+@aparentMMS I see your Pull Request! I'm going to comment on it - then, try to edit it on GitHub.com
+
+gasparsigma @gasparsigma 09:43
+git add -A
+git add --all
+git add --no-ignore-removal
+are all the same according to the documentation
+
+MikeSpringall @MikeSpringall 09:43
+git add . aswell?
+
+gasparsigma @gasparsigma 09:44
+git add . also stage untracked files I guess? Not 100% sure
+
+MikeSpringall @MikeSpringall 09:45
+ok thanks!
+
+gasparsigma @gasparsigma 09:46
+sorry, that info was wrong
+ git add -A stages All
+git add . stages new and modified, without deleted
+git add -u stages modified and deleted, without new
+
+Briana Swift @brianamarie 09:46
+@gasparsigma :sparkles: Awesome helping out, thank you!
+
+MikeSpringall @MikeSpringall 09:47
+:thumbsup:
+
+crazy4wisdom @crazy4wisdom 09:47
+mine merged without this stuff being presented
+
+Briana Swift @brianamarie 09:47
+@crazy4wisdom That's ok - she's explaining now.
+
+crazy4wisdom @crazy4wisdom 09:47
+k
+
+tinaGitStudent @tinaGitStudent 09:48
+I am not getting the drop down on the merge button. Anyone knows why?
+
+Briana Swift @brianamarie 09:49
+@aparentMMS You feeling more ok now?
+
+Hector Alfaro @halfaro1 09:50
+@tinaGitStudent it shows up after you first click on merge on the confirmation button
+
+fabgonzalez @fabgonzalez 09:52
+@brianamarie Is there a way to delete a branch (not from the pull request) ?
+
+Briana Swift @brianamarie 09:52
+@fabgonzalez Yes. You can do that by clicking 'code' on the top navigation bar, then lower you'll see another bar with the number of commits, branches, and releases. Click the 'branches' part, and you can delete from there.
+
+Fernando Guevara @guevaraf 09:53
+thank you all @halfaro1 @brianamarie @crichID , I have to step out now
+
+Briana Swift @brianamarie 09:53
+@guevaraf :wave: Thanks for sticking around, see you tomorrow!
+
+crazy4wisdom @crazy4wisdom 09:55
+the last --set.. and merge did not work
+
+Swastika Singhal @swastika 09:56
+I didn't have to set upstream to origin/master and still git pull worked... how did that happen?
+
+Briana Swift @brianamarie 09:56
+@crazy4wisdom What did you type exactly?
+
+rogerya @rogerya 09:56
+what is git ... purge?
+
+Briana Swift @brianamarie 09:56
+@swastika Great question! When we set the upstream later, we did it in a way that is one time only. Git remembers that relationship for later pulls, so you only have to set the upstream relationship once.
+
+rogerya @rogerya 09:56
+how to delete?
+
+Briana Swift @brianamarie 09:57
+@rogerya I'm not sure what you're asking, do you mean git prune?
+
+rogerya @rogerya 09:57
+yes
+
+Swastika Singhal @swastika 09:57
+@brianamarie could you remind me of the command that did that?
+
+crazy4wisdom @crazy4wisdom 09:57
+git pull then git branch --set-upstream-to origin/master master then git fetch --prune then git branch --all
+
+rogerya @rogerya 09:57
+git 'what' prune ?
+ok
+
+Briana Swift @brianamarie 09:58
+@swastika Yep! git push -u origin <branch-name>
+
+Swastika Singhal @swastika 09:58
+thanks
+
+Briana Swift @brianamarie 09:58
+Thank you @crazy4wisdom :smile:
+
+karthickt88 @karthickt88 09:58
+@rogerya git fetch --prune
+
+crazy4wisdom @crazy4wisdom 09:58
+the last bit here at command line hasn't worked as presented, it would be very useful to have cheatsheet or recipes for the steps involved
+
+Briana Swift @brianamarie 09:58
+I'll post some very soon @crazy4wisdom :smile:
+
+crazy4wisdom @crazy4wisdom 09:59
+thx @brianamarie
+
+gasparsigma @gasparsigma 09:59
+sweet! looking forward to tomorrow
+
+mishacucicea @mishacucicea 09:59
+:dog: is telling us class is over :)
+
+Hector Alfaro @halfaro1 09:59
+LOL! @mishacucicea
+
+Anders Bruun Rosbæk @andersrosbaek 09:59
+mute the dog-music in the background for tomorrow ;) ;)
+
+Yading @yading2014 09:59
+:dog2:
+
+MikeSpringall @MikeSpringall 09:59
+:dog:
+
+Hector Alfaro @halfaro1 09:59
+git mute :dog2:
+
+bcmsp @bcmsp 10:00
+
+
+Yading @yading2014 10:00
+
+
+Hamid Rohani @hamid914 10:00
+
+
+mshewchuk @mshewchuk 10:00
+nice doggy
+
+rogerya @rogerya 10:00
+after git fetch --prune
+what to merge?
+
+sjamer @sjamer 10:00
+Time to take him for a walk 
+
+Emma @peppapig 10:00
+
+
+Cyberprodigy @cyberprodigy 10:00
+I liked the intro to GitHub UI, since I don't use that so much. I'm more using GIT enterprise 
+Good work. Thank you so much 
+
+aparentMMS @aparentMMS 10:01
+@brianamarie better... I wish I could watch the vid before tomorrows class to see what I missed. Thanks for your help! 
+
+bcmsp @bcmsp 10:01
+Thank you
+
+rogerya @rogerya 10:01
+thanks
+
+Emma @peppapig 10:01
+Thanks!
+
+Amol @Amol-Wankhede 10:01
+Thanks
+
+marcp146 @marcp146 10:01
+cheers
+
+digitalmoomin @digitalmoomin 10:01
+Fenks
+
+Swastika Singhal @swastika 10:01
+how can I create a branch without having to explicitly create a remote branch and executing the set-upstream-to command?
+
+Yading @yading2014 10:01
+Thank you!
+
+Briana Swift @brianamarie 10:01
+6. Working Locally
+Review of working locally
+Working on our new branch, we created a new file.
+List the files in your current directory by running ls -la
+We learned about 'working', 'staging', and 'history' and how commits fit into those areas using this resource.
+See your working/staged area git status. This command is :heart:!
+Change your file from 'working' to 'staging' by running git add <file-name>
+Change your file from 'staging' to 'history' by running git commit
+Text editor opens: Write a 'commit message' tells a story of the changes you just made in 50 characters or less.
+Create a new file and repeat steps 1 - 3 for the two stage commit. This way, we'll have two commits to work with.
+Here are some shortcuts to know about in the future:
+To automatically stage all files that have been changed, run git add -A. Note: This will only work for files that are already being tracked, not brand new files.
+Avoid the text editor in the commit by running git commit -m "commit message"
+7. Collaborating on Code
+Review of moving from Git to GitHub
+We talked about remote, and how we can see details about it by running git remote, git remote -v, and git remote show origin
+'Push' our changes on the current branch to GitHub.com by running git push -u origin <branch-name>
+If you forget the -u tag, set a 'upstream branch' relationship between our local branch and the GitHub.com remote branch by running git branch --set-upstream-to=origin/<remote-branch-name>
+This means we only have to run git push and git pull in the future
+git pull is the combination of git fetch and git merge
+git branch and git branch -a will help you see what is going on with your local and remote branches
+On GitHub.com, open a pull request in our class repository by clicking the green "New pull request" button.
+Make sure your pull request says base: master and compare: <your-new-branch>
+Give it a good title and message about the changes you introduced. Bonus points for using markdown and emojis!
+You can add labels and assignees to pull requests like we did with Issues.
+Using @mention is important - you can mention people or teams to give them a notification to see your pull request to start collaboration.
+Notifications
+Notifications are an important part of GitHub. You can customize these several ways.
+For GitHub in general, Settings/notificatons
+For repositories, at the top of a repository page on GitHub.com by clicking "Watch"
+For individual issues and pull requests by clicking "unsubscribe" on the right hand side of the webpage
+On the pull request page, we talked about the different tabs for 'conversation', 'commits', and 'files changed'.
+'Conversation' is where you and your colleagues can collaborate on your changes. This view includes comments as well as notes of when changes happen.
+'Commits' shows a history of what commits were added - this is why your commit messages matter - they tell a story.
+'Files changed' will let you see the actual code in several different formats. You also can make line level comments from this view.
+8. Edit on GitHub
+How to edit a file on GitHub
+To edit a pull request file, you use the files changed view and click the edit icon.
+Once you've made changes, create a new commit on the bottom of the page.
+Make sure you commit to the correct branch
+9. Merging Pull Requests
+Pull requests
+During class, please do not close or merge any pull requests other than your own.
+On your own pull request, if all is green and there are no conflicts, go ahead and merge your branch.
+After merging a branch, it's part of the master branch and good practice is to delete it.
+This is a major difference bet
+
+mshewchuk @mshewchuk 10:01
+cheers
+
+mishacucicea @mishacucicea 10:01
+@halfaro1 @crichID @brianamarie thank you :)
+
+fabgonzalez @fabgonzalez 10:01
+@halfaro1 @brianamarie I am a little bit confused about the origins and the tracking. Where could I read more about those topics to better understand what we did today when the teacher made a mistake and showed us how to correct it\
+?
+
+Hector Alfaro @halfaro1 10:01
+@swastika git checkout -b <branch-name> will create and check you out to a branch locally
+
+Hamid Rohani @hamid914 10:01
+@crichID @halfaro1 @brianamarie Thank you
+
+Briana Swift @brianamarie 10:01
+@swastika You can also create a branch locally, but you still will need to let Git know what you'd like it called in the future.
+
+tinaGitStudent @tinaGitStudent 10:02
+I learned less git commands from the console than expected. But I didn't work with gitHub.com so far. So in that sense I learned much more than expected.
+
+marklilburn @marklilburn 10:02
+@digitalmoomin You wha..?
+
+Briana Swift @brianamarie 10:02
+@fabgonzalez I suggest this resource: https://git-scm.com/book/ch3-5.html
+
+Cynthia Rich @crichID 10:02
+@aparentMMS I will do my best to get the video uploaded today!
+
+Hector Alfaro @halfaro1 10:03
+@fabgonzalez :+1: what @brianamarie said, that book (Pro Git) has been fantastic in helping me understand some of these concepts
+
+Drossarian @Drossarian 10:03
+Couldn't do anything today probably because of our company's proxy/firewall settings.
+
+Hector Alfaro @halfaro1 10:03
+Sorry to hear that @Drossarian I'll look through our class pre-requisites to make sure we give folks a heads up before they come to class in the future.
+
+Swastika Singhal @swastika 10:05
+Thanks, I usually create my branches using git checkout -b <branch-name> command, but do not execute the set-upstream-to command... Is that why I get this error: "warning: deleting branch 'feature/<branch-name>?' that has been merged to
+'refs/remotes/origin/feature/<branch-name>', but not yet merged to HEAD." when I do this: git branch -d <branch-name>
+
+Bruce-MacLean @Bruce-MacLean 10:05
+@Drossarian same here - spent a very frustrating couple of hours trying to get that to work, lost the rest of the training session
+
+Hector Alfaro @halfaro1 10:06
+@swastika did you replace <branch-name> with the name of the branch you're trying to delete?
+
+KamaleswaranS @KamaleswaranS 10:06
+hello I can't push my changes
+looks like permission issue
+
+Swastika Singhal @swastika 10:06
+I get this error:" error: src refspec <branch-name> does not match any.
+error: failed to push some refs to 'https://github.com....git'" when I try to push that delete
+
+Cynthia Rich @crichID 10:06
+@Bruce-MacLean @Drossarian I’m sorry that you were stuck with proxy/firewall issues
+
+Hector Alfaro @halfaro1 10:06
+@KamaleswaranS did you join us late? did you comment on Issue #1?
+
+KamaleswaranS @KamaleswaranS 10:06
+yes I did comment on the issue
+
+Swastika Singhal @swastika 10:06
+@halfaro1 actually my branchname is feature/<identifier>
+
+KamaleswaranS @KamaleswaranS 10:07
+joined it in the begining but couldn't push my changes
+
+Hector Alfaro @halfaro1 10:07
+@KamaleswaranS perfect, ok yes I do see that you're a collaborator so that's good
+
+Cynthia Rich @crichID 10:07
+Unfortunately it is really hard for us to troubleshoot those remotely but I can point you to some resources if you are still stuck @Brice
+
+Hector Alfaro @halfaro1 10:07
+@KamaleswaranS are you behind a company firewall by any chance?
+
+Cynthia Rich @crichID 10:07
+@Bruce-MacLean @Drossarian sorry ^^ premature comment
+
+KamaleswaranS @KamaleswaranS 10:07
+no.. my colleagues can push their changes successfully
+
+Hector Alfaro @halfaro1 10:07
+@KamaleswaranS that's good to know, alright, let's go through your command history
+@KamaleswaranS could I please see the command that's causing trouble?
+@KamaleswaranS and the response from your command line
+
+Cynthia Rich @crichID 10:08
+@swastika just trying to get caught up on your issue
+
+KamaleswaranS @KamaleswaranS 10:09
+command: git push
+response: 403
+remote: Permission to githubteacher/developer-may-2016.git denied to Kamaleswaran. fatal: unable to access 'https://github.com/githubteacher/developers-may-2016.git/': the requested URL returned error: 403
+
+Cynthia Rich @crichID 10:10
+@swastika it looks like you created your branch with git checkout -b branch-name
+
+Swastika Singhal @swastika 10:11
+@crichID correct
+
+Cynthia Rich @crichID 10:11
+did you use the same branch name as the one you had created on Github.com? @swastika
+
+Swastika Singhal @swastika 10:11
+I did not create the remote branch at all
+
+Hector Alfaro @halfaro1 10:11
+@KamaleswaranS could you check your version of git with git --version?
+
+Swastika Singhal @swastika 10:11
+I use git push origin <branch-name>
+and that seems to create the remote branch with the same name as well
+
+Cynthia Rich @crichID 10:12
+@swastika Ah, ok so when you pushed you would need to use git push -u origin <branch-name> to set the remote tracking branch
+
+KamaleswaranS @KamaleswaranS 10:12
+version 2.8.2.windows.1
+@crichID I have same issue with this command as well git push -u origin <branch-name>
+
+Hector Alfaro @halfaro1 10:13
+@KamaleswaranS alright, do you know if you have two factor authentication enabled on your GitHub account?
+
+Swastika Singhal @swastika 10:13
+by remote tracking branch meaning - not just the remote branch with the same name but also the tracking relationship to match the local and remote branch?
+
+Hector Alfaro @halfaro1 10:13
+@KamaleswaranS can check at https://github.com/settings/security
+
+KamaleswaranS @KamaleswaranS 10:14
+@halfaro1 status is off for two-factor authentication
+
+Cynthia Rich @crichID 10:14
+@swastika correct - the git push origin branch-name will create the branch on GitHub but it doesn’t create the relationship betweent he remote tracking branch and your local branch with the same name
+The -u is what does that
+
+Hector Alfaro @halfaro1 10:15
+@KamaleswaranS thanks, and were you prompted for the username and password at some point when you first tried to push?
+
+KamaleswaranS @KamaleswaranS 10:15
+nope
+
+Swastika Singhal @swastika 10:17
+@crichID Thanks, also is this correct : -u will make Git remember that relationship for later pulls for all branches that were pushed with -u option and not requiring me to execute the set-upstream-to command?
+looks like only one of the two commands is required, either -u with git push or set-upstream
+
+Hector Alfaro @halfaro1 10:19
+@KamaleswaranS alright the last thing we can try is creating a personal access token from your github account and using that to authenticate on the command line
+@KamaleswaranS what operating system are you on?
+
+Swastika Singhal @swastika 10:22
+@brianamarie but i never used this command to push: git push -u origin <branch-name>. I just used git push. I did set-upstream-to though, when did it remember the setting?
+
+Hector Alfaro @halfaro1 10:24
+@KamaleswaranS are you still there?
+
+Briana Swift @brianamarie 10:24
+@swastika If you did set-upstream-to, that's the long version of the -u tag. You should be good to go, and it sounds like you have a good understanding of the process. 
+
+Hector Alfaro @halfaro1 10:25
+Alright folks we have to run off to a meeting so we won't be monitoring this room again until tomorrow.
+@swastika it looks like you're good to go for now
+@KamaleswaranS if you'd like to troubleshoot this on your own try authenticating through an access token https://help.github.com/articles/creating-an-access-token-for-command-line-use/
+
+Swastika Singhal @swastika 10:26
+thanks everyone!
+
+Hector Alfaro @halfaro1 10:27
+This room will be inactive until tomorrow's session on Thu, May 12. Please visit https://services.github.com/, https://help.github.com/, or email services@github.com with further questions in the meantime.
