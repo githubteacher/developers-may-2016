@@ -9,3 +9,6 @@
 
 ### Fun things to do:
 Watch the bridge.
+Go to Restelo.
+Go to Cais do Sodre.
+
