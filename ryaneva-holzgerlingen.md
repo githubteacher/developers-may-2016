@@ -1,5 +1,7 @@
 ## Holzgerlingen
 
-### pizza
+### places to eat
+wanner, vis-a-vis
 
-### enjoy the time out :-)
+### Fun things to do
+Enjoy the time out :-)
