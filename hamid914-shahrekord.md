@@ -2,7 +2,9 @@
 https://en.wikipedia.org/wiki/Shahr-e_Kord
 
 ### Places to eat
-- Mr. Dizi
+- Try Dizi in Mr. Dizi
+
 
 ### Fun things to do
-- climbing
+- Climbing
+- Visit Lalehaye Vajhgun weald
