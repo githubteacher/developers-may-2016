@@ -7,3 +7,4 @@
 ### Fun things to do
 
 - Go for a walk in Central Athens: Plaka, Monastiraki, Thisio
+- Go to Glyfada to enjoy the sea
