@@ -1,5 +1,5 @@
 ## Athens, Greece
 
- ### Places to eat
+### Places to eat
 
- ### Fun things to do
+### Fun things to do
