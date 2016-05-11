@@ -3,6 +3,7 @@
 ### fun things to do
 
 - soak up the atmosphere in town on international rugby match days
+- go to a match (if you can get a ticket!)
 
 ### things to avoid
 
