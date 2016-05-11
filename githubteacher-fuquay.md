@@ -3,6 +3,7 @@
 ### Places to eat
 
 - Aviator's is the most popular place in town!
+- Fainting Goat Tavern is new and very popular!
 
 ### Fun things to do
 
