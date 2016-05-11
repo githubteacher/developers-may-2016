@@ -4,5 +4,6 @@
 
 ### Fun things to do
 
-The oldest inner city in the Netherlands
+Walk through the oldest inner city in the Netherlands
 Boat trip
+Visit old abby where the state of the Netherlands was founded, is a museum now
