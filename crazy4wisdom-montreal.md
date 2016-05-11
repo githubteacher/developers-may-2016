@@ -1,5 +1,7 @@
 ## Montreal, Canada
 
 ### places to eat
-L'Avenue
+- L'Avenue
+- Chez Victoire
+- 
 ### Fun things to do
