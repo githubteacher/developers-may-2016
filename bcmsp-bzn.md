@@ -4,6 +4,7 @@
 
 - Melita restaurant
 - Serracin
+- Home
 
 ## Fun things to do
 
