@@ -4,3 +4,5 @@
 
 
 ### Activiies
+
+### Places to stay
