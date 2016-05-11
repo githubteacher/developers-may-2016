@@ -2,8 +2,9 @@
 
 ### Places to eat
 - Melderitis
-Party rooms (60 persons), meals, party service, café, volleyball grounds, boating down the Gauja river.
+Party rooms (60 persons), meals, party service, cafÃ©, volleyball grounds, boating down the Gauja river.
 
 
 ### Fun things to do
 - Play some sports
+- Travel with boat down the river stream
