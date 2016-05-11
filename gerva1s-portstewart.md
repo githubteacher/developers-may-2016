@@ -7,3 +7,4 @@
 ### do
 
 - bodyboarding on the excellent beach
+- walking in the dunes
