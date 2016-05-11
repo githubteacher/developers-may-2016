@@ -6,3 +6,6 @@ Flix Brewhouse:
 This Movie Theater Makes me Happy.
 
 ## Places to eat
+
+- Taco Deli is delicious for tacos
+- Alternatively; there's Torchy's. 
