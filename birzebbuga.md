@@ -3,3 +3,4 @@
 ### Places to eat
 
 ### Fun things to do
+Go to "Il-Bajja s-Sabiħa" (or  "Pretty Bay") for a nice sandy beach.
