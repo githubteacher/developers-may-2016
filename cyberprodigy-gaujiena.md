@@ -1,8 +1,9 @@
-## Gaujiena, LV
+﻿## Gaujiena, LV
 
 ### Places to eat
 - Melderitis
 Party rooms (60 persons), meals, party service, café, volleyball grounds, boating down the Gauja river.
+- Kalnarušķi
 
 
 ### Fun things to do
