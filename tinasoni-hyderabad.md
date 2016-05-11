@@ -5,3 +5,5 @@
 -- Hyderabadi biryani is famous
 
 ### Fun things to do
+
+-- Shopping
