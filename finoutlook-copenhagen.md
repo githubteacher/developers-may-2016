@@ -3,3 +3,5 @@
 ### Places to each
 
 ### Fun things to do
+Canal boat tour
+Hire bikes
