@@ -1,4 +1,4 @@
-## San Gwann, Malta
+## San Ġwann, Malta
 
 ### Places to eat
 
