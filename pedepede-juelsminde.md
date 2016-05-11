@@ -11,3 +11,6 @@ None
 ### Red light districts
 None
 (We sure miss that)
+
+### Places to die
+Some...
