@@ -5,4 +5,5 @@
 
 ### Fun things to do
 * Take a walk on Vitosha mountain
+* Go karting
 
