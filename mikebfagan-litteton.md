@@ -3,7 +3,7 @@
 ### Places to eat
 Breakfast - Toast
 Lunch - Merle's
-Dinner - Melting Pot
+Dinner - Melting Pot, Smoking Fins
 ### Things to do
 Block Party - June 11a
 https://www.facebook.com/HistoricDowntownLittletonMerchants/events
