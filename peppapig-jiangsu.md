@@ -6,4 +6,6 @@ Yangzhou
 Suzhou
 
 ### Fun things to do
-Sightview
+- Sightview
+- Having Chinese food
+- See quite a few Chinese culture things
