@@ -2,7 +2,7 @@
 
 ### Places to eat.
 - Aviator is the most interesting restaurant in town.
-- Senoire's Pizza are good too.
+- Fainting goat tavern is new and good too.
 
 ### Fun Things to do.
 - Hang out at Park.
